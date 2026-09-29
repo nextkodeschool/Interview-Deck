@@ -12,6 +12,9 @@
 
 ### Infrastructure Pipeline
 
+![Infra Creation](img/project/aws_infra.png)
+
+
 > For infrastructure, we maintain a dedicated **Infrastructure GitHub repository**.
 >
 > This repository contains reusable **Terraform modules**, Terraform resource files, variables, outputs, environment-specific `.tfvars` files, and GitHub Actions workflows.
@@ -48,6 +51,8 @@
 > So the key idea is that **the Terraform code remains reusable, while the environment-specific configuration is controlled through tfvars files and branch-based automation**.
 
 ### Build and Release Pipeline
+
+![Build and Release](img/project/aws_deploy.png)
 
 > The second major pipeline is our **application Build and Release pipeline**.
 >
