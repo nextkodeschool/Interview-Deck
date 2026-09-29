@@ -1,6 +1,8 @@
 # Monolithic vs Microservices Architecture
 ## Flipkart Application Example
 
+![Architecture](img/general/Architecture.png)
+
 This document explains the difference between **Monolithic Architecture** and **Microservices Architecture** using a simple Flipkart-style shopping application.
 
 The example application contains the following features:
@@ -52,6 +54,8 @@ Shared Database
 ```
 
 ## What happens during a failure?
+
+![Architecture Failure](img/general/Architecture_failure.png)
 
 Because all modules are tightly connected inside one application, a serious issue in one part of the application can affect the complete application.
 
