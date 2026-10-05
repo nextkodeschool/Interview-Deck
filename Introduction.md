@@ -96,15 +96,11 @@ Introduction
 
 Thank you for the opportunity to introduce myself. My name is [**Saiteja Irrinki**](https://www.softwarelife.in), and I’m currently working as a **Lead DevOps Engineer**, with strong hands-on experience in **AWS, Azure, and DevOps technologies**.
 
-In my current role, I’m involved in designing, automating, deploying, and supporting **cloud infrastructure and CI/CD solutions for enterprise applications**.
-
 Throughout my career, I’ve worked across different business domains such as **Manufacturing, Banking, Food & Retail, Daily Care, and other enterprise environments**. This has given me good exposure to different business processes, application architectures, deployment models, and production environments.
 
-I’ve worked with both **monolithic and microservices-based applications**, which has helped me understand how infrastructure, deployments, scalability, availability, and release processes differ across different application architectures.
+I’ve worked with both **monolithic and microservices-based applications**, which has helped me understand how infrastructure, deployment, scalability, availability, and release processes vary across different application architectures.
 
-From a technical perspective, my core experience is around `AWS`, `Azure`, `Terraform`, `Docker`, `Kubernetes`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `GitLab CI/CD`, `Linux`, and `Shell scripting`.
-
-I’ve worked extensively on **Infrastructure as Code using Terraform**, containerized applications using **Docker**, deployed and managed workloads on **Kubernetes, Amazon EKS, and Azure Kubernetes environments**, and built automated **CI/CD pipelines for both application and infrastructure deployments using Azure DevOps and other CI/CD platforms**.
+From a technical perspective, my core experience includes **Infrastructure as Code using Terraform**, application containerization using **Docker**, deploying and managing workloads on **Kubernetes, Amazon EKS, and Azure Kubernetes environments**, and building automated **CI/CD pipelines for both application and infrastructure deployments using Azure DevOps and other CI/CD platforms**.
 
 On AWS, I’ve worked with services such as `EC2`, `VPC`, `IAM`, `S3`, `Load Balancers`, `Auto Scaling`, `Route 53`, `CloudWatch`, `ECR`, and `EKS`, along with implementing **secure, scalable, and highly available cloud infrastructure**.
 
@@ -116,7 +112,7 @@ I also coordinate closely with **application, cloud, security, networking, QA, a
 
 Apart from my day-to-day project responsibilities, I continuously keep myself updated with the **DevOps, Cloud, Kubernetes, GitOps, and Platform Engineering ecosystem** through technical documentation, hands-on practice, proof of concepts, and knowledge sharing.
 
-At this stage of my career, I’m looking for a **Lead / Senior AWS, Azure DevOps, or Cloud DevOps role** where I can utilize my experience in **cloud infrastructure, automation, CI/CD, containers, Kubernetes, Azure DevOps, and Infrastructure as Code**, while taking more ownership in **architecture, reliability, platform engineering, and DevOps best practices**.
+At this stage of my career, I’m looking for **Senior or Lead-level DevOps, Cloud, or Platform Engineering roles** where I can utilize my experience in **cloud infrastructure, automation, CI/CD, containers, Kubernetes, Azure DevOps, and Infrastructure as Code**, while taking more ownership in **architecture, reliability, platform engineering, and DevOps best practices**.
 
 ---
 
