@@ -94,17 +94,21 @@ Introduction
 
 # 3. Interview Introduction
 
-Thank you for the opportunity to introduce myself. My name is **Saiteja Irrinki**, and I’m currently working as a **Lead DevOps Engineer**, with strong hands-on experience in **AWS and DevOps technologies**.
+Thank you for the opportunity to introduce myself. My name is **Saiteja Irrinki**, and I’m currently working as a **Lead DevOps Engineer**, with strong hands-on experience in **AWS, Azure, and DevOps technologies**.
 
 In my current role, I’m involved in designing, automating, deploying, and supporting **cloud infrastructure and CI/CD solutions for enterprise applications**.
 
-Throughout my career, I’ve worked with different application architectures, including **monolithic and microservices-based applications**, which has given me good exposure to different business environments, deployment models, and production infrastructure.
+Throughout my career, I’ve worked across different business domains such as **Manufacturing, Banking, Food & Retail, Daily Care, and other enterprise environments**. This has given me good exposure to different business processes, application architectures, deployment models, and production environments.
 
-From a technical perspective, my core experience is around **AWS, Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI/CD, Linux, and Shell scripting**.
+I’ve worked with both **monolithic and microservices-based applications**, which has helped me understand how infrastructure, deployments, scalability, availability, and release processes differ across different application architectures.
 
-I’ve worked extensively on **Infrastructure as Code using Terraform**, containerized applications using **Docker**, deployed and managed workloads on **Kubernetes and Amazon EKS**, and built automated **CI/CD pipelines for both application and infrastructure deployments**.
+From a technical perspective, my core experience is around `AWS`, `Azure`, `Terraform`, `Docker`, `Kubernetes`, `Azure DevOps`, `GitHub Actions`, `Jenkins`, `GitLab CI/CD`, `Linux`, and `Shell scripting`.
 
-On AWS, I’ve worked with services such as **EC2, VPC, IAM, S3, Load Balancers, Auto Scaling, Route 53, CloudWatch, ECR, and EKS**, along with implementing **secure, scalable, and highly available cloud infrastructure**.
+I’ve worked extensively on **Infrastructure as Code using Terraform**, containerized applications using **Docker**, deployed and managed workloads on **Kubernetes, Amazon EKS, and Azure Kubernetes environments**, and built automated **CI/CD pipelines for both application and infrastructure deployments using Azure DevOps and other CI/CD platforms**.
+
+On AWS, I’ve worked with services such as `EC2`, `VPC`, `IAM`, `S3`, `Load Balancers`, `Auto Scaling`, `Route 53`, `CloudWatch`, `ECR`, and `EKS`, along with implementing **secure, scalable, and highly available cloud infrastructure**.
+
+On Azure, I’ve worked with **cloud infrastructure and deployment services**, along with `Azure DevOps Pipelines`, `Repos`, **environment-based deployments**, and **CI/CD automation** for application and infrastructure releases.
 
 In my current and recent projects, my responsibilities include **infrastructure provisioning, CI/CD automation, application and production deployments, release support, troubleshooting deployment and infrastructure issues, Kubernetes deployments, environment management, and automation**.
 
@@ -112,7 +116,7 @@ I also coordinate closely with **application, cloud, security, networking, QA, a
 
 Apart from my day-to-day project responsibilities, I continuously keep myself updated with the **DevOps, Cloud, Kubernetes, GitOps, and Platform Engineering ecosystem** through technical documentation, hands-on practice, proof of concepts, and knowledge sharing.
 
-At this stage of my career, I’m looking for a **Lead / Senior AWS DevOps or Cloud DevOps role** where I can utilize my experience in **cloud infrastructure, automation, CI/CD, containers, Kubernetes, and Infrastructure as Code**, while taking more ownership in **architecture, reliability, platform engineering, and DevOps best practices**.
+At this stage of my career, I’m looking for a **Lead / Senior AWS, Azure DevOps, or Cloud DevOps role** where I can utilize my experience in **cloud infrastructure, automation, CI/CD, containers, Kubernetes, Azure DevOps, and Infrastructure as Code**, while taking more ownership in **architecture, reliability, platform engineering, and DevOps best practices**.
 
 ---
 
